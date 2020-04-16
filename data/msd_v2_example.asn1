@@ -1,0 +1,44 @@
+value1 ECallMessage ::= {
+msdVersion 2,
+msd CONTAINING {
+msdStructure {
+messageIdentifier 1,
+control {
+automaticActivation TRUE,
+testCall FALSE,
+positionCanBeTrusted TRUE,
+vehicleType passengerVehicleClassM1
+},
+vehicleIdentificationNumber {
+isowmi "ECA",
+isovds "LLEXAM",
+isovisModelyear "P",
+isovisSeqPlant "LE02013"
+},
+vehiclePropulsionStorageType {
+gasolineTankPresent TRUE,
+dieselTankPresent FALSE,
+compressedNaturalGas FALSE,
+liquidPropaneGas FALSE,
+electricEnergyStorage FALSE,
+hydrogenStorage FALSE,
+otherStorage FALSE
+},
+timestamp 1367878452,
+vehicleLocation 
+positionLatitude 18859320,
+positionLongitude 187996428
+},
+vehicleDirection 45,
+recentVehicleLocationN1 {
+latitudeDelta 0,
+longitudeDelta 10
+},
+recentVehicleLocationN2 {
+latitudeDelta 0,
+longitudeDelta 30
+},
+numberOfPassengers 2
+}
+}
+}
