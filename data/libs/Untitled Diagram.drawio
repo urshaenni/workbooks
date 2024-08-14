@@ -1,0 +1,23 @@
+<mxfile host="draw.echodoc.ch" modified="2024-08-14T07:31:30.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="q3WrQ6fqoPs9TI5CQGan" version="24.4.4" type="github">
+  <diagram name="Page-1" id="8HXWV9_yF4eonZYilLNJ">
+    <mxGraphModel dx="988" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9jDjUxbcul63eXb4YAWo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9jDjUxbcul63eXb4YAWo-1" target="9jDjUxbcul63eXb4YAWo-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="test tgffd&lt;div&gt;gf&lt;/div&gt;&lt;div&gt;gsgf&lt;/div&gt;&lt;div&gt;gfd&lt;/div&gt;&lt;div&gt;fsd&lt;/div&gt;&lt;div&gt;gfsd&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" tooltip="This is a tooltip" id="9jDjUxbcul63eXb4YAWo-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;" parent="1" vertex="1">
+            <mxGeometry x="140" y="130" width="120" height="150" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="test" tooltip="This is a tooltip" id="9jDjUxbcul63eXb4YAWo-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+            <mxGeometry x="354" y="175" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
